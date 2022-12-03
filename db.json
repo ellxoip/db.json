@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "San Bernardo",
+      "username": "Julio",
+      "email": "TulioH@gmail.com",
+      "address": {
+        "street": "Av. Pdte. Jorge Alessandri Rodríguez",
+        "suite": "19116",
+        "city": "SanBernardo",
+        "zipcode": "5050000",
+        "geo": {
+          "lat": "-33.615641",
+          "lng": "-70.702456"
+        }
+      },
+      "phone": "990708843",
+      "website": "donTulio.com",
+      "company": {
+        "name": "DuocUc",
+        "catchPhrase": "Teacher at Duoc",
+        "bs": "Hello, I am a humble teacher at Duoc uc"
+      }
+    }
+  ],
+  "correos": [
+    {
+      "id": 1,
+      "title": " Av. Pdte. Jorge Alessandri",
+      "body": 1950,
+      "dia": "2022-10-15",
+      "hora": "09:47",
+      "userId": 1
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "username": "mat.arteaga",
+      "name": "matias",
+      "pass": "12345",
+      "mail": "mat.arteaga@duocuc.cl",
+      "driver": false
+    },
+    {
+      "id": 2,
+      "username": "da.suarez",
+      "name": "daniel",
+      "pass": "12345",
+      "mail": "da.suarez@duocuc.cl",
+      "driver": true
+    }
+  ]
+}
